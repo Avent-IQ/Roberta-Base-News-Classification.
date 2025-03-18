@@ -1,7 +1,3 @@
-Here's your model card based on the example you provided:  
-
----
-
 # RoBERTa-Base for News Classification (FP16 Quantized)  
 This is a RoBERTa-Base model fine-tuned on the **AG News dataset** for text classification. It categorizes news articles into one of four classes: **World, Sports, Business, and Science/Technology**. The model has been further **quantized to FP16** for improved inference speed and reduced memory usage, making it efficient for deployment on resource-constrained environments.  
 
